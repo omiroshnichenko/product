@@ -1,0 +1,16 @@
+{
+    "name": "omiroshnichenko/product",
+    "description": "Product metapackage",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleksandr Miroshnichenko",
+            "email": "miroshni@adobe.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "version": "1.0.0"
+}
