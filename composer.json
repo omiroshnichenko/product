@@ -12,5 +12,13 @@
     "minimum-stability": "stable",
     "require": {
     },
-    "version": "1.0.0"
+    "suggest": {
+        "omiroshnichenko/ext": "You need to install this package from your root!"
+    },
+    "scripts": {
+        "post-package-install": [
+            "echo 'Install ext manually!'" 
+        ]
+    },
+    "version": "1.0.1"
 }
